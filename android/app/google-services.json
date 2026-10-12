@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "259668969056",
+    "project_id": "lunaspace-8bec0",
+    "storage_bucket": "lunaspace-8bec0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259668969056:android:06628cc5690868f32aa505",
+        "android_client_info": {
+          "package_name": "com.example.soulscript"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259668969056-kp0g617tqgd8gmqf0vtk9073i9e6slra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYA9RsYVCYow99SlXz52k6SDfI5T8vnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259668969056-kp0g617tqgd8gmqf0vtk9073i9e6slra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259668969056-v827e905238nd74f6gpns6ov8rbd2lrv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soulscript"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259668969056:android:ca88201f707416d52aa505",
+        "android_client_info": {
+          "package_name": "com.phoenix.soulscript"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259668969056-kp0g617tqgd8gmqf0vtk9073i9e6slra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYA9RsYVCYow99SlXz52k6SDfI5T8vnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259668969056-kp0g617tqgd8gmqf0vtk9073i9e6slra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259668969056-v827e905238nd74f6gpns6ov8rbd2lrv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soulscript"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
